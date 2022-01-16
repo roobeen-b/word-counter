@@ -1,0 +1,21 @@
+body {
+  box-sizing: border-box;
+  padding: 5%;
+}
+
+label {
+  font-weight: bolder;
+}
+
+#text {
+  border: solid black 1px;
+  border-radius: 2%;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+.highlight {
+  color: rgb(156, 156, 10);
+}
